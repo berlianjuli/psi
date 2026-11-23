@@ -1,5 +1,5 @@
 <?php
-
+/*catatan berlian*/
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
